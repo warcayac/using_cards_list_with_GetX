@@ -2,7 +2,7 @@
 
 ## Preview
 
-![Preview](preview.mp4)
+![Preview](output.gif)
 
 ## Getting Started
 
