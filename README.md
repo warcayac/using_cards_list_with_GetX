@@ -1,6 +1,8 @@
-# delete_cards
+# Using cards list with_GetX
 
-A new Flutter project.
+## Preview
+
+![Preview](preview.mp4)
 
 ## Getting Started
 
